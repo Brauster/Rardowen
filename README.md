@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rardowen
 - 👀 I’m interested in python/javascript/css/html
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html/css
